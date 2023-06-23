@@ -35,3 +35,6 @@ Please add to the list below.
 - Neon Genesis Evangelion
 - onepiece
 - BuraTamori
+- Code Geass
+- syabekuri 007
+- Precure
