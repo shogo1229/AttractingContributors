@@ -34,5 +34,6 @@ Please add to the list below.
 - crazy journey
 - Neon Genesis Evangelion
 - onepiece
+- Code Geass
 - syabekuri 007
 - Precure
