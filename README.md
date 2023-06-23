@@ -30,4 +30,5 @@ Would you add it to the list below?<br/>
 - mint
 - Kali Linux
 - Raspbian
+- Windows XP
 - MacOS
