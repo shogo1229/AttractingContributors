@@ -12,3 +12,4 @@ ja) 好きな動物の名前を教えてください。
 - Tiger
 - panda
 - cat
+- Shiba Inu
