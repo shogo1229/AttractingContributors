@@ -10,3 +10,8 @@ ja) 好きな動物の名前を教えてください。
 - Horse
 - Shiba Inu
 - cat
+- Hedgehog
+- Tiger
+- panda
+- cat
+- Shiba Inu
