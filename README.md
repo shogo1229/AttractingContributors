@@ -8,4 +8,5 @@ ja) 好きな動物の名前を教えてください。
 - Dog
 - elephant
 - Horse
+- Tiger
 - panda
