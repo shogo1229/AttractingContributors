@@ -6,3 +6,5 @@ ja) 好きな動物の名前を教えてください。
 
 - Iriomote wildcat
 - Dog
+- elephant
+- Horse
