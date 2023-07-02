@@ -16,3 +16,4 @@ ja) 好きな動物の名前を教えてください。
 - cat
 - Lion
 - Dragon
+- cat
